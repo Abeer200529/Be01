@@ -13,7 +13,7 @@ A minimal Spring Boot app with two JSON endpoints.
 mvn spring-boot:run
 ```
 
-Server starts at http://localhost:8080
+Server starts at http://localhost:8081
 
 (First run will take a minute — Maven downloads Spring Boot dependencies.)
 
